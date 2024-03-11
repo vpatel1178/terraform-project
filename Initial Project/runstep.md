@@ -15,7 +15,7 @@ Create a directory for your Terraform project and create a Terraform configurati
    }
 ```
 
-## Initialize Terraform**
+## Initialize Terraform
 
 In your terminal, navigate to the directory containing your Terraform configuration files and run:
 
